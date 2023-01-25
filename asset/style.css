@@ -1,0 +1,68 @@
+.font{
+  font-size: 25px;
+  font-style: normal;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.fonts{
+  font-size: 20px;
+  font-style: normal;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.card-glassed{
+  background: rgb(21 59 145 / 85%);
+  box-shadow: 0 4px 30px rgb(10 41 130 / 68%);
+  backdrop-filter: blur(2.1px);
+  -webkit-backdrop-filter: blur(2.1px);
+  border: 1px solid rgba(220, 25, 25, 0.34)
+}
+.picture{
+    max-height: 450px;
+}
+.pts{
+    top: 50px;
+}
+.separator{
+  width: 100%;
+  height: 45px;
+  position: relative;
+  
+}
+.separator::after, .separator::before{
+  content: '';
+  position: absolute;
+  margin: auto;
+  height: 2px;
+  background: rgb(74, 6, 6);
+  width: 45%;
+  top: 45%;
+}
+.separator::after{
+  left: 0px;
+  border: 3px solid rgb(74, 6, 6);
+}
+.separator::before{
+  right: 0px;
+  border: 3px solid rgb(74, 6, 6);
+}
+.symbold{
+  height: 40px;
+  width: 40px;
+  border: 5px solid rgb(74, 6, 6);
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  margin: auto;
+  transform: rotate(45deg);
+  box-shadow: 0 4px 30px rgb(10 41 130 / 68%);
+}
+.padding{
+  height: 40;
+}
+.trasn{
+background: rgba(255, 255, 255, 0.808);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(3.1px);
+-webkit-backdrop-filter: blur(3.1px);
+border: 1px solid rgba(242, 236, 236, 0.37);
+}
