@@ -148,19 +148,19 @@
                 <div class="card">
                     <div class="card-body">
                         <div class="row">
-                            <div class="col"><i class="fa-solid fa-award"></i>
+                            <div class="col item-center" data-aos="zoom-in" data-aos-duration="2000"><i class="fa-solid fa-award"></i>
                                 Penghargaan 1
                                 <div class="clearfix"></div>
                                 <br>
                                 <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
                               </div>
-                            <div class="col"><i class="fa-solid fa-award"></i>
+                            <div class="col item-center"data-aos="zoom-in" data-aos-duration="1800"><i class="fa-solid fa-award"></i>
                                 Penghargaan 2
                                 <div class="clearfix"></div>
                                 <br>
                                 <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
                             </div>
-                            <div class="col"><i class="fa-solid fa-award"></i>
+                            <div class="col item-center"data-aos="zoom-in" data-aos-duration="1700"><i class="fa-solid fa-award"></i>
                                 Penghargaan 3
                                 <div class="clearfix"></div>
                                 <br>
@@ -169,19 +169,19 @@
                         </div>
                         <br>
                         <div class="row">
-                        <div class="col"><i class="fa-solid fa-award"></i>
+                        <div class="col item-center"data-aos="zoom-in" data-aos-duration="1600"><i class="fa-solid fa-award"></i>
                                 Penghargaan 4
                                 <div class="clearfix"></div>
                                 <br>
                                 <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
                             </div>
-                            <div class="col"><i class="fa-solid fa-award"></i>
+                            <div class="col item-center" data-aos="zoom-in" data-aos-duration="1500"><i class="fa-solid fa-award"></i>
                                 Penghargaan 5
                                 <div class="clearfix"></div>
                                 <br>
                                 <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
                             </div>
-                            <div class="col"><i class="fa-solid fa-award"></i>
+                            <div class="col item-center" data-aos="zoom-in" data-aos-duration="1400"><i class="fa-solid fa-award"></i>
                                 Penghargaan 5
                                 <div class="clearfix"></div>
                                 <br>
