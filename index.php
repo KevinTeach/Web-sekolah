@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
     <link rel="stylesheet" href="asset/style.css">
+    <link rel="stylesheet" href="asset/all.css">
+    <link rel="stylesheet" href="asset/regular.css">
+    <link rel="stylesheet" href="asset/regular.min.css">
+    <script src="asset/js/all.js"></script>
+    <script src="asset/js/regular.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
@@ -129,25 +134,46 @@
           </div>
           <br>
      <br>
-    <div class="separator">
-        <div class="symbold"></div>
-        <br>
-        <div class="text-center font">
-            Prestasi&nbsp;Sekolah
-        </div>
-    </div>
-        <br>
-        <br>
-        <br>
-        <div class="row">
+      <div class="container">
+          <div class="separator">
+                <div class="symbold"></div>
+                <br>
+                <div class="text-center font">
+                    Prestasi&nbsp;Sekolah
+                </div>
+            </div>
+            <br><br><br>
+            <div class="row">
             <div class="col">
                 <div class="card">
                     <div class="card-body">
-                        <img src="" alt="" srcset="">
+                        <div class="row">
+                            <div class="col"><i class="fa-solid fa-award"></i>
+                              Penghargaan 1
+                              <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
+                          </div>
+                            <div class="col"><i class="fa-solid fa-award"></i>
+                              Penghargaan 2
+                                <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
+                          </div>
+                            <div class="col"><i class="fa-solid fa-award"></i>
+                              Penghargaan 3
+                                <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
+                          </div>
+                            <div class="col"><i class="fa-solid fa-award"></i>
+                              Penghargaan 4
+                                <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
+                          </div>
+                            <div class="col"><i class="fa-solid fa-award"></i>
+                              Penghargaan 5
+                                <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
+                          </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+      </div>
     </div>
 </div>
     

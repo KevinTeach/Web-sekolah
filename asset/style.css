@@ -66,3 +66,8 @@ backdrop-filter: blur(3.1px);
 -webkit-backdrop-filter: blur(3.1px);
 border: 1px solid rgba(242, 236, 236, 0.37);
 }
+.for-certivied{
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 30%;
+  image-resolution: 500;
+}
