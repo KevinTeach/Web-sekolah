@@ -149,25 +149,44 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col"><i class="fa-solid fa-award"></i>
-                              Penghargaan 1
-                              <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
-                          </div>
-                            <div class="col"><i class="fa-solid fa-award"></i>
-                              Penghargaan 2
+                                Penghargaan 1
+                                <div class="clearfix"></div>
+                                <br>
                                 <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
-                          </div>
+                              </div>
                             <div class="col"><i class="fa-solid fa-award"></i>
-                              Penghargaan 3
+                                Penghargaan 2
+                                <div class="clearfix"></div>
+                                <br>
                                 <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
-                          </div>
+                            </div>
                             <div class="col"><i class="fa-solid fa-award"></i>
-                              Penghargaan 4
+                                Penghargaan 3
+                                <div class="clearfix"></div>
+                                <br>
                                 <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
-                          </div>
+                            </div>
+                        </div>
+                        <br>
+                        <div class="row">
+                        <div class="col"><i class="fa-solid fa-award"></i>
+                                Penghargaan 4
+                                <div class="clearfix"></div>
+                                <br>
+                                <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
+                            </div>
                             <div class="col"><i class="fa-solid fa-award"></i>
-                              Penghargaan 5
+                                Penghargaan 5
+                                <div class="clearfix"></div>
+                                <br>
                                 <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
-                          </div>
+                            </div>
+                            <div class="col"><i class="fa-solid fa-award"></i>
+                                Penghargaan 5
+                                <div class="clearfix"></div>
+                                <br>
+                                <img src="https://avatars.githubusercontent.com/u/110511598?v=4" class="for-certivied" alt="" srcset="">
+                            </div>
                         </div>
                     </div>
                 </div>
